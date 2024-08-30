@@ -1,0 +1,22 @@
+{
+  "name": "kiseki-pix-craft-api",
+  "version": "1.0.0",
+  "description": "kiseki-pix-craft-api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheKisekiNoSedai/kiseki-pix-craft-api.git"
+  },
+  "author": "Heck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheKisekiNoSedai/kiseki-pix-craft-api/issues"
+  },
+  "homepage": "https://github.com/TheKisekiNoSedai/kiseki-pix-craft-api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
